@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <br>
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -34,4 +34,16 @@
   <br>
 </div>
 
+  ---
+  <br>
+  
+  <div align="center">
+  
+|프로젝트명|기간|내용|
+|:---:|:---:|:---:|
+| [ GASGASGAS ] 임베디드 소프트웨어 공모전 | 2021.11.01 ~ 2022.01.13 |팀 프로젝트 <장려상 수상>|
+| [ MOBEE ] 영화 정보 어플 | 2022.05.24 ~ 2022.06.25 |개인 프로젝트|
+| [ COSMOS ] 스터디 모임 어플 | 2022.06.28 ~ ing |팀 프로젝트|
+  
+  </div>
 
